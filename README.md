@@ -1,6 +1,6 @@
 # NoteBud AI
 
-**Try it live:** https://netlify.app
+**Try it live:** https://notebud-ai.netlify.app/
 
 ## About My App
 I am a 12-year-old, and I made an app on TurboWarp! It's free because I don't know how to add pricing yet. I want feedback and for people to test it!
