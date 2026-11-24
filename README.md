@@ -10,7 +10,7 @@ I am a 12-year-old, and I made an app on TurboWarp! It's free because I don't kn
 **Quick heads-up:** I'm still a beginner with GitHub (I just learned how to get around it better!) and I barely use it, so I might not check messages or reply right away. Thank you for testing my app!
 
 
-NoteBud 📝🎵
+
 NoteBud is an automated audio-notetaking application that listens to YouTube videos through your microphone, generates comprehensive summaries, and offers an intelligent file organizer to keep your study materials structured.
 
 🚀 Key Features
